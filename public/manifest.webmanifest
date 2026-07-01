@@ -1,0 +1,19 @@
+{
+  "name": "Good Boom-Boom Team (顾的爆爆队)",
+  "short_name": "Boom-Boom",
+  "description": "2.5D 卡通格子炸弹闯关游戏。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#203843",
+  "theme_color": "#203843",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
